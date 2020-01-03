@@ -74,5 +74,46 @@ p{
     width:auto;
     margin-top: 2%;
     margin-left: 2%;
+    border-radius:1.2rem;
+    border-color:red;
+}
+
+footer{
+    background-color: #fff;
+    padding:0.7rem;
+    margin-top: 10%;
+    font-family: cursive;
+    
+}
+.lefty{
+    float: left;
+    width:20%;    
+}
+
+.lefty p{
+    color: black;
+}
+
+.righty{
+    float: right;
+    width:80%;
+    margin-top: 2%;
+}
+.righty input{
+    margin-left: 0.3rem;
+    margin-right: 2rem;
+    font-size: 1rem;
+    width: 250px;
+}
+
+.btn3{
+    padding: 7px 12px;
+    color: #fff;
+    background-color: #01A185;
+    margin-top: 2%;
+    border: none;
+    margin-left: 2%;
+    text-decoration: none;
+    font-family: sans-serif;
 
 }
