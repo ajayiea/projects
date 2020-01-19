@@ -30,6 +30,10 @@ nav ul li a{
     color:#fff;
     padding: 20px;
 }
+nav img{
+    margin-top: 0.5%;
+    height: 60px;
+}
 img{
     width:14%;
     margin-left: 1.9rem;
