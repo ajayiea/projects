@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Footer, Blog, Possibility, features, Whatcodawebsite, Header, Features} from './containers';
+import { Footer, Blog, Possibility, Features, Whatcodawebsite, Header} from './containers';
 import {CTA, Brand, Navbar} from './components';
 
 const App = () => {
